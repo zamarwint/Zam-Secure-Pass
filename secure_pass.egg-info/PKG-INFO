@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: secure_pass
+Version: 1.0.0
+Author-email: Zamar Wint <zamar.wint1@gmail.com>
+Requires-Python: >=3.9
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: setuptools; extra == "dev"
+Requires-Dist: wheel; extra == "dev"
+Requires-Dist: customtkinter; extra == "dev"
+Requires-Dist: pyperclip; extra == "dev"

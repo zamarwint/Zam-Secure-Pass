@@ -1,0 +1,7 @@
+
+[dev]
+pytest
+setuptools
+wheel
+customtkinter
+pyperclip

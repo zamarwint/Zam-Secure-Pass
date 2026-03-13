@@ -1,0 +1,17 @@
+[project]
+name = "secure_pass"
+version = "1.0.0"
+description = "A simple secure password generator."
+authors = [{name = "Zamar Wint", email = "zamar.wint1@gmail.com"}]
+requires-python = ">=3.9"
+dynamic = ["optional-dependencies"]
+
+[build-system]
+requires = ["setuptools", "wheel", "customtkinter", "pyperclip"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.dynamic]
+optional-dependencies = {dev = {file = ["dev-requirements.txt"]}} # add packages for development in the dev-requirements.txt file
+
+[project.scripts]
+# TODO: add your CLI entry points here
