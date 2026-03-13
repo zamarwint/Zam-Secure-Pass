@@ -15,7 +15,7 @@ It's very simple. **Here are the instructions:**
 
 ## Download
 
-To download this application on Github, click on "Secure Password Generator V1" under "Releases", then click on "Secure.Password.Generator.exe".
+To download this application on Github, click on "Zam Secure Pass V1" under "Releases", then click on "Zam.Secure.Pass.exe".
 
 On my Portfolio website, click "Download project" for the application under the Projects section.
 
