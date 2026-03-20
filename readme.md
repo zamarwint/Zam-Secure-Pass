@@ -19,6 +19,14 @@ To download this application on Github, click on "Zam Secure Pass V1" under "Rel
 
 On my Portfolio website, click "Download project" for the application under the Projects section.
 
+When you open the app, ignore the pop-up from Microsoft Defender, saying **"it prevented an unrecognized app from starting"**, the app is **virus free**, this only shows because I haven't yet purchased a code signing certificate for it from Microsoft. Microsoft automatically red flags apps that do not have their certificate.
+
+### Ignore this, select more info, then select the "Run anyway" button when it appears at the bottom.
+
+![Defender Popup](microsoft-defender-pop-up.png)
+
+And there you go!
+
 ## Feedback
 
 To give feedback, please visit my Portfolio website and contact me from there.
